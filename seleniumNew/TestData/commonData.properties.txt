@@ -1,0 +1,6 @@
+  Keys        Vlues
+
+  Url      : http://localhost/login.do
+  username :admin
+  password :manager
+  browser  :Chrome
